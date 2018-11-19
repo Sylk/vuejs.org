@@ -148,4 +148,4 @@ There are also other hooks which will be called at different stages of the insta
 
 Below is a diagram for the instance lifecycle. You don't need to fully understand everything going on right now, but as you learn and build more, it will be a useful reference.
 
-![The Vue Instance Lifecycle](/images/lifecycle.png)
+<img style="margin-left:3px" src="/images/lifecycle.png" alt="The Vue Instance Lifecycle">
